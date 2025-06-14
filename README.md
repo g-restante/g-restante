@@ -15,7 +15,7 @@ If a system can run on its own, monitor itself, and alert me when something’s 
 
 ---
 
-- 👶 **Started coding:** 2010
-- 🐍 **Favorite stack:** Java for structure, Python for flexibility  
-- 🎮 **Hobbies:** FPS games addict — aim fast, die faster, learn always  
-- 🏍️ **Off-screen:** Motorcycle enthusiast — nothing like real speed to clear async thoughts  
+👶 **Started coding:** 2010
+🐍 **Favorite stack:** Java for structure, Python for flexibility  
+🎮 **Hobbies:** FPS games addict — aim fast, die faster, learn always  
+🏍️ **Off-screen:** Motorcycle enthusiast — nothing like real speed to clear async thoughts  
